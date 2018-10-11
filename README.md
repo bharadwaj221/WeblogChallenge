@@ -1,3 +1,29 @@
+# Solution
+#1. Sessionization:
+#Path: 
+output/sessionize
+
+#Logic
+
+#2. Average session time:
+#Path: 
+output/average_session_length
+
+#Logic
+
+#3. Unique URL Hits:
+#Path: 
+output/url_hits
+
+#Logic
+
+#4. Most engaged users:
+#Path: 
+output/top_users
+
+#Logic
+
+------------------------------------------------------------------------------------
 # WeblogChallenge
 This is an interview challenge for Paytm Labs. Please feel free to fork. Pull Requests will be ignored.
 
