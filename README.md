@@ -1,15 +1,15 @@
 # Solution
-#1. Sessionization:
-#Path: 
+# 1. Sessionization:
+# Path: 
 output/sessionize
 
-#Logic
+# Logic
 
-#2. Average session time:
-#Path: 
+# 2. Average session time:
+# Path: 
 output/average_session_length
 
-#Logic
+# Logic
 
 #3. Unique URL Hits:
 #Path: 
@@ -17,11 +17,11 @@ output/url_hits
 
 #Logic
 
-#4. Most engaged users:
-#Path: 
+# 4. Most engaged users:
+# Path: 
 output/top_users
 
-#Logic
+# Logic
 
 ------------------------------------------------------------------------------------
 # WeblogChallenge
